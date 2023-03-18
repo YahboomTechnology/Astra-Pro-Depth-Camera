@@ -4,11 +4,8 @@
 This ROS real-sensing depth camera comes with a color camera(RGB), IR camera, infrared projector, and depth processor. With dozens of functions such as face recognition, gesture recognition, human skeleton recognition, 3D measurement, environment perception, 3D mapping navigation, etc., it can be widely used in TV, mobile phone, robot, drone, VR/AR, smart home and other fields. We specially designed an extension bracket for it, which is convenient for users to install it on various ROS robots or smart cars.
 
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/dp/B09K3B39Z3)
-
 [By on Yahboom website](https://category.yahboom.net/products/astra_pro)
 
-[By on Aliexpress](https://www.aliexpress.com/item/1005003509438685.html) 
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
